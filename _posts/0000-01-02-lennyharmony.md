@@ -1,5 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to my slide!"
 ---
 My slide
+Yo 
